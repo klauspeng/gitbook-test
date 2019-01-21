@@ -1,44 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d74accc-476a-4afc-9572-e55917a7148f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Q_A/q_a.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/dai-ma-feng-ge-ji-ming-ming-gui-ze.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/adc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/ccid.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/dian-hua.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/dns.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/fota.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/fswen-jian-xi-7edf2928-chu-cun-shu-ju-dao-flash-huo-t-536129.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/gizwits.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/gpio.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/gprswang-7edc28-ji-7ad929.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/gps.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/iic.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/imei.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/lbs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/mqtt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/os.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/pmdian-yuan-guan-740629.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/smsduan-4fe129.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/socketwang-luo-tong-xin.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/spi.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/ssltls.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/timertc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/gong-neng-ji-api/uart.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/installation_docker.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/installation_linux.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/kai-fa-huan-jing-an-zhuang.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/kai-shi-di-yi-fen-dai-ma.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-sdk/xia-zai-bian-yi-hao-de-gu-jian-dao-mo-zu.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ji-chu-zhi-shi/gps.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ji-chu-zhi-shi/gsmgprs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/more/flash_map.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/more/gen_lib.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/more/mpy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/more/vscode.md" beforeDir="false" />
+    <list default="true" id="9d74accc-476a-4afc-9572-e55917a7148f" name="Default Changelist" comment="测试 docs">
+      <change beforePath="$PROJECT_DIR$/docs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.idea/my-note-book.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/0_1290061989D7Fl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/20130725100058828.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/A9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/A9G.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/A9G_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Hello GPRS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/SIM Card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/TB2MWQucQyWBuNjy0FpXXassXXa_!!2922621297.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/c8ea15ce36d3d539d086d6e73287e950352ab05f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/compile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_connect_fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_connect_settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_download_fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_downloading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_gdb_error_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_gdb_launch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_gdb_settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_trace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/coolwatcher_trace_settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/env.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/open_with_cmd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/pudding_pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/sdk_download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/sdk_download_en.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/size.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/vscode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/vscode_git.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/微信截图_20180505130001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-fontsettings/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-highlight/ebook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-highlight/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-image-captions/image-captions.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-livereload/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-search-pro/jquery.mark.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-search-pro/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-search-pro/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-sharing/buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/images/apple-touch-icon-precomposed-152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gitbook/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search_plus_index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ying-jian/a9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ying-jian/a9.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ying-jian/a9g.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ying-jian/a9g.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ying-jian/kai-fa-ban-pudding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ying-jian/kai-fa-ban-pudding.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ying-jian/simqia.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ying-jian/simqia.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ying-jian/usbzhuan-chuan-kou-mo-kuai.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ying-jian/usbzhuan-chuan-kou-mo-kuai.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,29 +95,40 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="1" />
+          <entry key="bat" value="1" />
+          <entry key="js" value="1" />
+          <entry key="json" value="1" />
+          <entry key="md" value="2" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="bat" value="103" />
           <entry key="md" value="2" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="112" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
@@ -92,7 +142,45 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1020" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="140">
+                <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/publish.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="64" lean-forward="true" selection-start-column="64" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>livereload.js</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\wamp\my-note-book</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,6 +189,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/publish.bat" />
       </list>
     </option>
   </component>
@@ -117,6 +206,7 @@
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -145,6 +235,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wamp\my-note-book" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -167,22 +262,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548039587725</updated>
-      <workItem from="1548039589038" duration="1072000" />
+      <workItem from="1548039589038" duration="2825000" />
     </task>
+    <task id="LOCAL-00001" summary="测试 docs">
+      <created>1548040878343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548040878343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1072000" />
+    <option name="totallyTimeSpent" value="2825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.6683761" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49924356" weight="0.6683761" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.6683761" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -202,6 +307,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试 docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试 docs" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -212,6 +321,44 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/gitbook/gitbook-plugin-livereload/plugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="71" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="64" lean-forward="true" selection-start-column="64" selection-end-column="64" />
         </state>
       </provider>
     </entry>
