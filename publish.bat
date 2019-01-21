@@ -1,0 +1,1 @@
+gitbook build && rd /s /q docs && md docs && xcopy _book docs /e
